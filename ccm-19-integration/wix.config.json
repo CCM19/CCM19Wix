@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "6e47508b-5215-40c7-a097-af6ca1163970",
+  "projectId": "ccm-19-integration"
+}

@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
+  "id": "d9b80a49-e1d8-4df5-8a76-884c3d758cdd",
+  "title": "CCM19 Integration"
+}
